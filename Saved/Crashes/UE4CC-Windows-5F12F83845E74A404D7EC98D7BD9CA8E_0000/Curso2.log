@@ -1,0 +1,620 @@
+﻿Log file open, 04/01/18 22:27:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Curso2
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1299076239) SRandInit(1299076239).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.205029
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.02-01.27.36:719][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.02-01.27.36:719][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.02-01.27.36:776][  0]LogInit: Computer: DESKTOP-L5A8SVJ
+[2018.04.02-01.27.36:776][  0]LogInit: User: rotci
+[2018.04.02-01.27.36:776][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.02-01.27.36:776][  0]LogInit: High frequency timer resolution =2.825628 MHz
+[2018.04.02-01.27.36:777][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.04.02-01.27.36:777][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.02-01.27.36:777][  0]LogMemory: Process Physical Memory: 273.90 MB used, 273.90 MB peak
+[2018.04.02-01.27.36:777][  0]LogMemory: Process Virtual Memory: 269.55 MB used, 269.55 MB peak
+[2018.04.02-01.27.36:777][  0]LogMemory: Physical Memory: 4231.93 MB used,  3942.71 MB free, 8174.64 MB total
+[2018.04.02-01.27.36:777][  0]LogMemory: Virtual Memory: 677.16 MB used,  3942.71 MB free, 134217728.00 MB total
+[2018.04.02-01.27.37:831][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.04.02-01.27.37:831][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.04.02-01.27.39:425][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.02-01.27.40:605][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.02-01.27.40:715][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 550 Ti' (Feature Level 11_0)
+[2018.04.02-01.27.40:715][  0]LogD3D11RHI:       979/0/4087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.04.02-01.27.40:724][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.02-01.27.40:724][  0]LogD3D11RHI:       0/0/4087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.02-01.27.40:724][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.02-01.27.40:741][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.02-01.27.40:741][  0]LogD3D11RHI:     GPU DeviceId: 0x1244 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.02-01.27.40:741][  0]LogWindows: EnumDisplayDevices:
+[2018.04.02-01.27.40:741][  0]LogWindows:    0. 'NVIDIA GeForce GTX 550 Ti' (P:1 D:1)
+[2018.04.02-01.27.40:742][  0]LogWindows:    1. 'NVIDIA GeForce GTX 550 Ti' (P:0 D:1)
+[2018.04.02-01.27.40:742][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.02-01.27.40:742][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 550 Ti
+[2018.04.02-01.27.40:742][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.02-01.27.40:742][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.02-01.27.40:742][  0]LogRHI: Texture pool is 685 MB (70% of 979 MB)
+[2018.04.02-01.27.40:831][  0]LogD3D11RHI: Display: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2018.04.02-01.27.40:832][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.02-01.27.40:866][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.02-01.27.40:922][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Intermediate/Shaders/WorkingDirectory/10316/).
+[2018.04.02-01.27.40:922][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/rotci/AppData/Local/Temp/UnrealShaderWorkingDir/A9DC01F549A885CF399175ACE7DCA3B7/'.
+[2018.04.02-01.27.40:923][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.02-01.27.45:199][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.02-01.27.45:408][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.02-01.27.45:683][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.02-01.27.45:925][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.02-01.27.46:084][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.02-01.27.46:227][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.02-01.27.46:338][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.02-01.27.46:561][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.02-01.27.46:846][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.02-01.27.47:135][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.02-01.27.47:455][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.02-01.27.47:880][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.02-01.27.48:100][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.02-01.27.48:341][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.02-01.27.48:913][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.02-01.27.48:913][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.02-01.27.49:068][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.02-01.27.49:180][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.02-01.27.49:351][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.02-01.27.49:424][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.02-01.27.49:527][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.02-01.27.49:615][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.02-01.27.49:705][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.02-01.27.49:789][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.02-01.27.49:789][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.02-01.27.51:231][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.02-01.27.51:344][  0]LogDerivedDataCache: Loaded boot cache 0.11s 78MB C:/Users/rotci/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.02-01.27.51:344][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/rotci/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.02-01.27.51:344][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.02-01.27.51:344][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.02-01.27.51:344][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.02-01.27.51:344][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.02-01.27.51:373][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.02-01.27.51:388][  0]LogDerivedDataCache: Using Local data cache path C:/Users/rotci/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.02-01.27.51:413][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.02-01.27.51:414][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.02-01.27.51:415][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.02-01.27.51:415][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.02-01.27.52:580][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.02-01.27.53:310][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.02-01.27.53:537][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.02-01.27.53:537][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.02-01.27.53:537][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.02-01.27.53:537][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.02-01.27.53:537][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.02-01.27.53:635][  0]LogNetVersion: Curso2 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2460563088)
+[2018.04.02-01.27.54:114][  0]LogAssetRegistry: FAssetRegistry took 0.0346 seconds to start up
+[2018.04.02-01.27.56:074][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.211798 seconds
+[2018.04.02-01.27.56:090][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.04.02-01.27.56:090][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.04.02-01.27.56:090][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.02-01.27.56:427][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.02-01.28.04:309][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.02-01.28.04:405][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.02-01.28.05:909][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.02-01.28.07:533][  0]SourceControl: Source control is disabled
+[2018.04.02-01.28.07:534][  0]SourceControl: Source control is disabled
+[2018.04.02-01.28.07:791][  0]SourceControl: Source control is disabled
+[2018.04.02-01.28.07:964][  0]SourceControl: Source control is disabled
+[2018.04.02-01.28.11:201][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.02-01.28.12:390][  0]LogOcInput: OculusInput pre-init called
+[2018.04.02-01.28.12:957][  0]LogEngine: Initializing Engine...
+[2018.04.02-01.28.12:960][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.02-01.28.13:272][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.02-01.28.13:273][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2018.04.02-01.28.13:273][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.02-01.28.13:524][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.02-01.28.13:540][  0]LogInit: XAudio2 using 'Alto-falantes (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.02-01.28.13:582][  0]LogInit: FAudioDevice initialized.
+[2018.04.02-01.28.13:773][  0]LogDerivedDataCache: Saved boot cache 0.19s 78MB C:/Users/rotci/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.02-01.28.13:827][  0]LogInit: Texture streaming: Enabled
+[2018.04.02-01.28.14:279][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.02-01.28.14:279][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={3AD50718-4092-A34D-F66B-C7B930D7F72A}
+[2018.04.02-01.28.14:605][  0]LogInit: Transaction tracking system initialized
+[2018.04.02-01.28.15:362][  0]BlueprintLog: New page: Editor Load
+[2018.04.02-01.28.18:122][  0]LocalizationService: Localization service is disabled
+[2018.04.02-01.28.20:013][  0]LogConsoleResponse: Display: 
+[2018.04.02-01.28.20:520][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.02-01.28.20:520][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.02-01.28.20:520][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.02-01.28.21:619][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rotci/Documents/Unreal Projects/Curso2/Content/' took 0.02s
+[2018.04.02-01.28.23:646][  0]SourceControl: Source control is disabled
+[2018.04.02-01.28.23:646][  0]Cmd: MAP LOAD FILE="../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.02-01.28.23:668][  0]LogSlate: Took 0.000650 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.02-01.29.03:723][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.02-01.29.03:731][  0]LightingResults: New page: Lighting Build
+[2018.04.02-01.29.03:804][  0]MapCheck: New page: Map Check
+[2018.04.02-01.29.03:804][  0]LightingResults: New page: Lighting Build
+[2018.04.02-01.29.03:818][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.02-01.29.03:819][  0]LoadErrors: New page: New Map
+[2018.04.02-01.29.03:885][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.02-01.29.04:002][  0]LogCollectionManager: Loaded 0 collections in 0.002628 seconds
+[2018.04.02-01.29.04:112][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rotci/Documents/Unreal Projects/Curso2/Saved/Collections/' took 0.01s
+[2018.04.02-01.29.04:112][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rotci/Documents/Unreal Projects/Curso2/Content/Developers/rotci/Collections/' took 0.01s
+[2018.04.02-01.29.04:112][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rotci/Documents/Unreal Projects/Curso2/Content/Collections/' took 0.01s
+[2018.04.02-01.29.04:112][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.02-01.29.04:124][  0]LogContentBrowser: Native class hierarchy populated in 0.0114 seconds. Added 2363 classes and 519 folders.
+[2018.04.02-01.29.04:231][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.02-01.29.04:291][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.02-01.29.04:361][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.02-01.29.04:435][  0]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.02-01.29.04:442][  0]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.02-01.29.04:615][  0]LogRenderer: Reallocating scene render targets to support 1268x612 Format 9 NumSamples 1 (Frame:1).
+[2018.04.02-01.29.04:868][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.04.02-01.29.04:868][  0]LogLoad: (Engine Initialization) Total time: 93.63 seconds
+[2018.04.02-01.29.04:868][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.02-01.29.04:868][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.04.02-01.29.04:902][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.04.02-01.29.05:448][  2]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.04.02-01.29.05:456][  2]LogAssetRegistry: Asset discovery search completed in 71.3643 seconds
+[2018.04.02-01.29.05:458][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.02-01.29.05:458][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000075 seconds (updated 0 objects)
+[2018.04.02-01.29.05:925][ 28]LogSlate: Took 0.000389 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.02-01.29.08:909][182]LogSlate: Took 0.000292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.02-01.29.09:629][182]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 116 classes and 0 folders.
+[2018.04.02-01.29.12:475][182]LogLinker: Warning: Can't resolve asset name
+[2018.04.02-01.29.12:475][182]LogLinker: Warning: Can't resolve asset name
+[2018.04.02-01.29.12:490][182]LogSlate: Took 0.000450 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.02-01.29.12:505][182]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.02-01.29.24:606][797]LogSlate: Took 0.000419 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.02-01.29.41:324][688]BlueprintLog: New page: Compile ScreenMesh
+[2018.04.02-01.29.54:432][402]BlueprintLog: New page: Compile ScreenMesh
+[2018.04.02-01.29.56:047][454]LogSavePackage: Save=114.28ms
+[2018.04.02-01.29.56:049][454]LogSavePackage: Moving '../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Saved/ScreenMesh9E9244144DFA4E39E87BE18FAB1B12CD.tmp' to '../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Content/ThirdPersonBP/Blueprints/ScreenMesh.uasset'
+[2018.04.02-01.29.56:066][454]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Content/ThirdPersonBP/Blueprints/ScreenMesh.uasset
+[2018.04.02-01.30.14:340][397]BlueprintLog: New page: Compile ScreenMesh
+[2018.04.02-01.30.15:391][417]LogSavePackage: Save=52.96ms
+[2018.04.02-01.30.15:391][417]LogSavePackage: Moving '../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Saved/ScreenMeshE7A72A8243435755BC2E29BE74842B9C.tmp' to '../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Content/ThirdPersonBP/Blueprints/ScreenMesh.uasset'
+[2018.04.02-01.30.15:404][417]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Content/ThirdPersonBP/Blueprints/ScreenMesh.uasset
+[2018.04.02-01.30.39:614][792]BlueprintLog: New page: Compile ScreenMesh
+[2018.04.02-01.30.40:882][812]LogSavePackage: Save=86.80ms
+[2018.04.02-01.30.40:883][812]LogSavePackage: Moving '../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Saved/ScreenMesh637800674C5FF96CCB5FF2B804C9763A.tmp' to '../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Content/ThirdPersonBP/Blueprints/ScreenMesh.uasset'
+[2018.04.02-01.30.40:897][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Content/ThirdPersonBP/Blueprints/ScreenMesh.uasset
+[2018.04.02-01.30.58:586][676]BlueprintLog: New page: Compile ScreenMesh
+[2018.04.02-01.31.15:073][583]BlueprintLog: New page: Compile ScreenMesh
+[2018.04.02-01.31.16:120][609]LogSavePackage: Save=66.78ms
+[2018.04.02-01.31.16:120][609]LogSavePackage: Moving '../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Saved/ScreenMesh5BEC2462442374D93227D3BF6B93CFFF.tmp' to '../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Content/ThirdPersonBP/Blueprints/ScreenMesh.uasset'
+[2018.04.02-01.31.16:131][609]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Content/ThirdPersonBP/Blueprints/ScreenMesh.uasset
+[2018.04.02-01.31.19:102][717]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.04.02-01.31.19:106][717]LogMaterial: Missing cached shader map for material SceneView, compiling. 
+[2018.04.02-01.31.19:683][717]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.02-01.31.19:840][717]LogMaterial: Missing cached shader map for material SceneView, compiling. 
+[2018.04.02-01.31.19:887][717]LogMaterial: Missing cached shader map for material SceneView, compiling. 
+[2018.04.02-01.31.19:957][717]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.04.02-01.31.31:546][ 28]BlueprintLog: New page: Compile ScreenMesh
+[2018.04.02-01.31.32:816][ 49]LogSavePackage: Save=119.44ms
+[2018.04.02-01.31.32:816][ 49]LogSavePackage: Moving '../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Saved/ScreenMeshD2A0E538420ADCA6B2B8228B2FC6CDBC.tmp' to '../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Content/ThirdPersonBP/Blueprints/ScreenMesh.uasset'
+[2018.04.02-01.31.32:833][ 49]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Content/ThirdPersonBP/Blueprints/ScreenMesh.uasset
+[2018.04.02-01.31.37:260][269]LogAIModule: Creating AISystem for world LevelContainer
+[2018.04.02-01.31.38:720][269]LogSavePackage: Save=38.69ms
+[2018.04.02-01.31.38:720][269]LogSavePackage: Moving '../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Saved/ScreenMeshFA1A974A4C4C2524F290919336F09590.tmp' to '../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Content/ThirdPersonBP/Blueprints/ScreenMesh.uasset'
+[2018.04.02-01.31.38:728][269]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Content/ThirdPersonBP/Blueprints/ScreenMesh.uasset
+[2018.04.02-01.31.38:730][269]Cmd: MAP LOAD FILE="../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Content/ThirdPersonBP/Maps/LevelContainer.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.02-01.31.38:730][269]LightingResults: New page: Lighting Build
+[2018.04.02-01.31.38:731][269]LoadErrors: New page: Loading map: LevelContainer.umap
+[2018.04.02-01.31.38:731][269]MapCheck: New page: Map Check
+[2018.04.02-01.31.38:731][269]LightingResults: New page: Lighting Build
+[2018.04.02-01.31.38:760][269]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/ThirdPersonBP/Maps/RecursiveLevel) is flushing async loading
+[2018.04.02-01.31.38:970][269]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.02-01.31.39:053][269]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.02-01.31.39:151][269]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 97.826ms to complete.
+[2018.04.02-01.31.39:159][269]LogFileHelpers: Loading map 'LevelContainer' took 0.430
+[2018.04.02-01.31.40:394][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2018.04.02-01.31.41:050][328]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2018.04.02-01.31.41:815][354]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.04.02-01.31.44:891][417]LogSavePackage: Save=537.22ms
+[2018.04.02-01.31.44:891][417]LogSavePackage: Moving '../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Saved/LevelContainer315CDE4348E1CBB2D896B5B8F814BFA6.tmp' to '../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Content/ThirdPersonBP/Maps/LevelContainer.umap'
+[2018.04.02-01.31.44:903][417]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Content/ThirdPersonBP/Maps/LevelContainer.umap
+[2018.04.02-01.31.45:057][417]LogSavePackage: Save=17.29ms
+[2018.04.02-01.31.45:057][417]LogSavePackage: Moving '../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Saved/LevelContainer_BuiltData3D2208B645BF48BEEC16F2BAEE6CD2E0.tmp' to '../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Content/ThirdPersonBP/Maps/LevelContainer_BuiltData.uasset'
+[2018.04.02-01.31.45:061][417]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Content/ThirdPersonBP/Maps/LevelContainer_BuiltData.uasset
+[2018.04.02-01.31.47:142][470]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: RecursiveLevel, Actor: /Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.REINST_RecursiveLevel_C_0
+[2018.04.02-01.31.47:423][470]LogSavePackage: Save=322.65ms
+[2018.04.02-01.31.47:423][470]LogSavePackage: Moving '../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Saved/RecursiveLevelECAB5D544F8E4D6E212D0C92125A468E.tmp' to '../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Content/ThirdPersonBP/Maps/RecursiveLevel.umap'
+[2018.04.02-01.31.47:434][470]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Content/ThirdPersonBP/Maps/RecursiveLevel.umap
+[2018.04.02-01.31.47:435][470]LogFileHelpers: Saving map 'RecursiveLevel' took 0.586
+[2018.04.02-01.31.48:429][498]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.02-01.31.48:689][498]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer' with GeneratedClass '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer'
+[2018.04.02-01.31.48:689][498]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel'
+[2018.04.02-01.31.48:689][498]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.02-01.31.48:712][498]PIE: New page: PIE session: LevelContainer (Apr 1, 2018, 7:31:48 PM)
+[2018.04.02-01.31.48:723][498]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_LevelContainer
+[2018.04.02-01.31.48:728][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005300s)
+[2018.04.02-01.31.48:729][498]LogAIModule: Creating AISystem for world LevelContainer
+[2018.04.02-01.31.48:729][498]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2018.04.02-01.31.48:729][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer to /Game/ThirdPersonBP/Maps/UEDPIE_0_LevelContainer.LevelContainer (0.006630s)
+[2018.04.02-01.31.48:800][498]LogInit: XAudio2 using 'Alto-falantes (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.02-01.31.48:828][498]LogInit: FAudioDevice initialized.
+[2018.04.02-01.31.48:939][498]LogLoad: Game class is 'RecursiveGameMode_C'
+[2018.04.02-01.31.49:011][498]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_LevelContainer.LevelContainer up for play (max tick rate 0) at 2018.04.01-22.31.49
+[2018.04.02-01.31.49:012][498]LogWorld: Bringing up level for play took: 0.002943
+[2018.04.02-01.31.49:151][498]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2018.04.02-01.31.49:154][498]LogScript: Warning: Accessed None trying to read property Screen View
+	ScreenMesh_C /Game/ThirdPersonBP/Maps/UEDPIE_0_RecursiveLevel.RecursiveLevel:PersistentLevel.ScreenMesh
+	Function /Game/ThirdPersonBP/Blueprints/ScreenMesh.ScreenMesh_C:ExecuteUbergraph_ScreenMesh:00A3
+[2018.04.02-01.31.49:155][498]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Screen View from function: 'ExecuteUbergraph_ScreenMesh' from node: Set TextureTarget in graph: EventGraph in object: ScreenMesh with description: Accessed None trying to read property Screen View
+[2018.04.02-01.31.49:155][498]LogScript: Warning: Accessed None attempting to assign variable on an object
+	ScreenMesh_C /Game/ThirdPersonBP/Maps/UEDPIE_0_RecursiveLevel.RecursiveLevel:PersistentLevel.ScreenMesh
+	Function /Game/ThirdPersonBP/Blueprints/ScreenMesh.ScreenMesh_C:ExecuteUbergraph_ScreenMesh:00B8
+[2018.04.02-01.31.49:155][498]PIE: Error: Blueprint Runtime Error: Accessed None attempting to assign variable on an object from function: 'ExecuteUbergraph_ScreenMesh' from node: Set TextureTarget in graph: EventGraph in object: ScreenMesh with description: Accessed None attempting to assign variable on an object
+[2018.04.02-01.31.49:155][498]LogBlueprintUserMessages: [LevelContainer_C_0] [Level Container]Begin Play
+[2018.04.02-01.31.49:155][498]LogBlueprintUserMessages: [LevelContainer_C_0] [Level Container]Pawn Loaded Binding
+[2018.04.02-01.31.49:155][498]LogBlueprintUserMessages: [RecursiveLevel_C_1] [Recursive Map]Begin Play
+[2018.04.02-01.31.49:155][498]LogBlueprintUserMessages: [RecursiveLevel_C_1] [Recursive Map]Recursive Level Begin Play, possessing pawn
+[2018.04.02-01.31.49:156][498]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_LevelContainer 1.045
+[2018.04.02-01.31.49:243][498]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer' with GeneratedClass '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer'
+[2018.04.02-01.31.49:243][498]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel'
+[2018.04.02-01.31.49:247][498]LogBlueprintUserMessages: [RecursiveLevel_C_1] [Recursive Map]Firo
+[2018.04.02-01.31.53:934][653]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer' with GeneratedClass '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer'
+[2018.04.02-01.31.53:934][653]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel'
+[2018.04.02-01.31.54:017][653]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer' with GeneratedClass '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer'
+[2018.04.02-01.31.54:017][653]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel'
+[2018.04.02-01.32.19:606][381]BlueprintLog: New page: Compile ScreenMesh
+[2018.04.02-01.32.21:136][393]LogSavePackage: Save=74.21ms
+[2018.04.02-01.32.21:136][393]LogSavePackage: Moving '../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Saved/ScreenMeshDE6E0ED94629437032EC579950FC393F.tmp' to '../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Content/ThirdPersonBP/Blueprints/ScreenMesh.uasset'
+[2018.04.02-01.32.21:147][393]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Content/ThirdPersonBP/Blueprints/ScreenMesh.uasset
+[2018.04.02-01.32.23:039][462]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.02-01.32.23:111][462]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer' with GeneratedClass '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer'
+[2018.04.02-01.32.23:111][462]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel'
+[2018.04.02-01.32.23:111][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.02-01.32.23:111][462]PIE: New page: PIE session: LevelContainer (Apr 1, 2018, 7:32:23 PM)
+[2018.04.02-01.32.23:112][462]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_LevelContainer
+[2018.04.02-01.32.23:122][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009921s)
+[2018.04.02-01.32.23:124][462]LogAIModule: Creating AISystem for world LevelContainer
+[2018.04.02-01.32.23:124][462]LogPlayLevel: PIE: World Init took: (0.001612s)
+[2018.04.02-01.32.23:124][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer to /Game/ThirdPersonBP/Maps/UEDPIE_0_LevelContainer.LevelContainer (0.012138s)
+[2018.04.02-01.32.23:223][462]LogInit: XAudio2 using 'Alto-falantes (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.02-01.32.23:276][462]LogInit: FAudioDevice initialized.
+[2018.04.02-01.32.23:320][462]LogLoad: Game class is 'RecursiveGameMode_C'
+[2018.04.02-01.32.23:366][462]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_LevelContainer.LevelContainer up for play (max tick rate 0) at 2018.04.01-22.32.23
+[2018.04.02-01.32.23:368][462]LogWorld: Bringing up level for play took: 0.002211
+[2018.04.02-01.32.23:372][462]LogScript: Warning: Accessed None trying to read property Screen View
+	ScreenMesh_C /Game/ThirdPersonBP/Maps/UEDPIE_0_RecursiveLevel.RecursiveLevel:PersistentLevel.ScreenMesh
+	Function /Game/ThirdPersonBP/Blueprints/ScreenMesh.ScreenMesh_C:ExecuteUbergraph_ScreenMesh:0066
+[2018.04.02-01.32.23:372][462]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Screen View from function: 'ExecuteUbergraph_ScreenMesh' from node: Set TextureTarget in graph: EventGraph in object: ScreenMesh with description: Accessed None trying to read property Screen View
+[2018.04.02-01.32.23:372][462]LogScript: Warning: Accessed None attempting to assign variable on an object
+	ScreenMesh_C /Game/ThirdPersonBP/Maps/UEDPIE_0_RecursiveLevel.RecursiveLevel:PersistentLevel.ScreenMesh
+	Function /Game/ThirdPersonBP/Blueprints/ScreenMesh.ScreenMesh_C:ExecuteUbergraph_ScreenMesh:007B
+[2018.04.02-01.32.23:373][462]PIE: Error: Blueprint Runtime Error: Accessed None attempting to assign variable on an object from function: 'ExecuteUbergraph_ScreenMesh' from node: Set TextureTarget in graph: EventGraph in object: ScreenMesh with description: Accessed None attempting to assign variable on an object
+[2018.04.02-01.32.23:373][462]LogBlueprintUserMessages: [LevelContainer_C_0] [Level Container]Begin Play
+[2018.04.02-01.32.23:373][462]LogBlueprintUserMessages: [LevelContainer_C_0] [Level Container]Pawn Loaded Binding
+[2018.04.02-01.32.23:373][462]LogBlueprintUserMessages: [RecursiveLevel_C_1] [Recursive Map]Begin Play
+[2018.04.02-01.32.23:373][462]LogBlueprintUserMessages: [RecursiveLevel_C_1] [Recursive Map]Recursive Level Begin Play, possessing pawn
+[2018.04.02-01.32.23:374][462]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_LevelContainer 1.263
+[2018.04.02-01.32.23:374][462]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer' with GeneratedClass '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer'
+[2018.04.02-01.32.23:374][462]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel'
+[2018.04.02-01.32.23:379][462]LogBlueprintUserMessages: [RecursiveLevel_C_1] [Recursive Map]Firo
+[2018.04.02-01.32.28:215][633]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer' with GeneratedClass '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer'
+[2018.04.02-01.32.28:215][633]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel'
+[2018.04.02-01.32.28:252][633]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer' with GeneratedClass '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer'
+[2018.04.02-01.32.28:252][633]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel'
+[2018.04.02-01.32.44:482][ 64]LogSavePackage: Save=518.59ms
+[2018.04.02-01.32.44:482][ 64]LogSavePackage: Moving '../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Saved/LevelContainerE083044D4475CD03FE9723A2A579E914.tmp' to '../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Content/ThirdPersonBP/Maps/LevelContainer.umap'
+[2018.04.02-01.32.44:493][ 64]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Content/ThirdPersonBP/Maps/LevelContainer.umap
+[2018.04.02-01.32.44:604][ 64]LogSavePackage: Save=14.33ms
+[2018.04.02-01.32.44:604][ 64]LogSavePackage: Moving '../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Saved/LevelContainer_BuiltData4575105C46ACE029BC805E9BAB8DF63D.tmp' to '../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Content/ThirdPersonBP/Maps/LevelContainer_BuiltData.uasset'
+[2018.04.02-01.32.44:608][ 64]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Content/ThirdPersonBP/Maps/LevelContainer_BuiltData.uasset
+[2018.04.02-01.32.45:989][104]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: RecursiveLevel, Actor: /Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.REINST_RecursiveLevel_C_0
+[2018.04.02-01.32.46:354][104]LogSavePackage: Save=412.46ms
+[2018.04.02-01.32.46:354][104]LogSavePackage: Moving '../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Saved/RecursiveLevel2CB3C28E4F9B7C1828CD7B8A8802B72F.tmp' to '../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Content/ThirdPersonBP/Maps/RecursiveLevel.umap'
+[2018.04.02-01.32.46:366][104]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Content/ThirdPersonBP/Maps/RecursiveLevel.umap
+[2018.04.02-01.32.46:368][104]LogFileHelpers: Saving map 'RecursiveLevel' took 0.633
+[2018.04.02-01.32.51:694][261]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.02-01.32.51:731][261]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer' with GeneratedClass '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer'
+[2018.04.02-01.32.51:731][261]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel'
+[2018.04.02-01.32.51:731][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.02-01.32.51:731][261]PIE: New page: PIE session: LevelContainer (Apr 1, 2018, 7:32:51 PM)
+[2018.04.02-01.32.51:732][261]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_LevelContainer
+[2018.04.02-01.32.51:737][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005233s)
+[2018.04.02-01.32.51:738][261]LogAIModule: Creating AISystem for world LevelContainer
+[2018.04.02-01.32.51:738][261]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2018.04.02-01.32.51:738][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer to /Game/ThirdPersonBP/Maps/UEDPIE_0_LevelContainer.LevelContainer (0.006619s)
+[2018.04.02-01.32.51:790][261]LogInit: XAudio2 using 'Alto-falantes (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.02-01.32.51:821][261]LogInit: FAudioDevice initialized.
+[2018.04.02-01.32.51:862][261]LogLoad: Game class is 'RecursiveGameMode_C'
+[2018.04.02-01.32.51:893][261]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_LevelContainer.LevelContainer up for play (max tick rate 0) at 2018.04.01-22.32.51
+[2018.04.02-01.32.51:894][261]LogWorld: Bringing up level for play took: 0.001303
+[2018.04.02-01.32.51:897][261]LogScript: Warning: Accessed None trying to read property Screen View
+	ScreenMesh_C /Game/ThirdPersonBP/Maps/UEDPIE_0_RecursiveLevel.RecursiveLevel:PersistentLevel.ScreenMesh
+	Function /Game/ThirdPersonBP/Blueprints/ScreenMesh.ScreenMesh_C:ExecuteUbergraph_ScreenMesh:0066
+[2018.04.02-01.32.51:897][261]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Screen View from function: 'ExecuteUbergraph_ScreenMesh' from node: Set TextureTarget in graph: EventGraph in object: ScreenMesh with description: Accessed None trying to read property Screen View
+[2018.04.02-01.32.51:897][261]LogScript: Warning: Accessed None attempting to assign variable on an object
+	ScreenMesh_C /Game/ThirdPersonBP/Maps/UEDPIE_0_RecursiveLevel.RecursiveLevel:PersistentLevel.ScreenMesh
+	Function /Game/ThirdPersonBP/Blueprints/ScreenMesh.ScreenMesh_C:ExecuteUbergraph_ScreenMesh:007B
+[2018.04.02-01.32.51:897][261]PIE: Error: Blueprint Runtime Error: Accessed None attempting to assign variable on an object from function: 'ExecuteUbergraph_ScreenMesh' from node: Set TextureTarget in graph: EventGraph in object: ScreenMesh with description: Accessed None attempting to assign variable on an object
+[2018.04.02-01.32.51:898][261]LogBlueprintUserMessages: [LevelContainer_C_1] [Level Container]Begin Play
+[2018.04.02-01.32.51:898][261]LogBlueprintUserMessages: [LevelContainer_C_1] [Level Container]Pawn Loaded Binding
+[2018.04.02-01.32.51:898][261]LogBlueprintUserMessages: [RecursiveLevel_C_0] [Recursive Map]Begin Play
+[2018.04.02-01.32.51:898][261]LogBlueprintUserMessages: [RecursiveLevel_C_0] [Recursive Map]Recursive Level Begin Play, possessing pawn
+[2018.04.02-01.32.51:898][261]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_LevelContainer -0.213
+[2018.04.02-01.32.51:899][261]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer' with GeneratedClass '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer'
+[2018.04.02-01.32.51:899][261]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel'
+[2018.04.02-01.32.51:902][261]LogBlueprintUserMessages: [RecursiveLevel_C_0] [Recursive Map]Firo
+[2018.04.02-01.33.00:702][576]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer' with GeneratedClass '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer'
+[2018.04.02-01.33.00:702][576]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel'
+[2018.04.02-01.33.00:745][576]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer' with GeneratedClass '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer'
+[2018.04.02-01.33.00:745][576]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel'
+[2018.04.02-01.33.09:099][775]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.04.02-01.33.15:632][958]LogMaterial: Missing cached shader map for material SceneView, compiling. 
+[2018.04.02-01.33.15:913][958]LogMaterial: Missing cached shader map for material SceneView, compiling. 
+[2018.04.02-01.33.15:966][958]LogMaterial: Missing cached shader map for material SceneView, compiling. 
+[2018.04.02-01.33.16:044][958]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.04.02-01.33.26:908][191]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.02-01.33.27:014][191]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer' with GeneratedClass '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer'
+[2018.04.02-01.33.27:014][191]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel'
+[2018.04.02-01.33.27:015][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.02-01.33.27:015][191]PIE: New page: PIE session: LevelContainer (Apr 1, 2018, 7:33:27 PM)
+[2018.04.02-01.33.27:017][191]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_LevelContainer
+[2018.04.02-01.33.27:027][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010414s)
+[2018.04.02-01.33.27:029][191]LogAIModule: Creating AISystem for world LevelContainer
+[2018.04.02-01.33.27:029][191]LogPlayLevel: PIE: World Init took: (0.001653s)
+[2018.04.02-01.33.27:029][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer to /Game/ThirdPersonBP/Maps/UEDPIE_0_LevelContainer.LevelContainer (0.012765s)
+[2018.04.02-01.33.27:160][191]LogInit: XAudio2 using 'Alto-falantes (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.02-01.33.27:211][191]LogInit: FAudioDevice initialized.
+[2018.04.02-01.33.27:262][191]LogLoad: Game class is 'RecursiveGameMode_C'
+[2018.04.02-01.33.27:320][191]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_LevelContainer.LevelContainer up for play (max tick rate 0) at 2018.04.01-22.33.27
+[2018.04.02-01.33.27:322][191]LogWorld: Bringing up level for play took: 0.003259
+[2018.04.02-01.33.27:329][191]LogScript: Warning: Accessed None trying to read property Screen View
+	ScreenMesh_C /Game/ThirdPersonBP/Maps/UEDPIE_0_RecursiveLevel.RecursiveLevel:PersistentLevel.ScreenMesh
+	Function /Game/ThirdPersonBP/Blueprints/ScreenMesh.ScreenMesh_C:ExecuteUbergraph_ScreenMesh:0066
+[2018.04.02-01.33.27:329][191]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Screen View from function: 'ExecuteUbergraph_ScreenMesh' from node: Set TextureTarget in graph: EventGraph in object: ScreenMesh with description: Accessed None trying to read property Screen View
+[2018.04.02-01.33.27:329][191]LogScript: Warning: Accessed None attempting to assign variable on an object
+	ScreenMesh_C /Game/ThirdPersonBP/Maps/UEDPIE_0_RecursiveLevel.RecursiveLevel:PersistentLevel.ScreenMesh
+	Function /Game/ThirdPersonBP/Blueprints/ScreenMesh.ScreenMesh_C:ExecuteUbergraph_ScreenMesh:007B
+[2018.04.02-01.33.27:329][191]PIE: Error: Blueprint Runtime Error: Accessed None attempting to assign variable on an object from function: 'ExecuteUbergraph_ScreenMesh' from node: Set TextureTarget in graph: EventGraph in object: ScreenMesh with description: Accessed None attempting to assign variable on an object
+[2018.04.02-01.33.27:330][191]LogBlueprintUserMessages: [LevelContainer_C_1] [Level Container]Begin Play
+[2018.04.02-01.33.27:330][191]LogBlueprintUserMessages: [LevelContainer_C_1] [Level Container]Pawn Loaded Binding
+[2018.04.02-01.33.27:330][191]LogBlueprintUserMessages: [RecursiveLevel_C_0] [Recursive Map]Begin Play
+[2018.04.02-01.33.27:330][191]LogBlueprintUserMessages: [RecursiveLevel_C_0] [Recursive Map]Recursive Level Begin Play, possessing pawn
+[2018.04.02-01.33.27:330][191]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_LevelContainer 1.22
+[2018.04.02-01.33.27:569][191]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer' with GeneratedClass '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer'
+[2018.04.02-01.33.27:570][191]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel'
+[2018.04.02-01.33.27:576][191]LogBlueprintUserMessages: [RecursiveLevel_C_0] [Recursive Map]Firo
+[2018.04.02-01.33.35:101][364]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.04.02-01.33.35:101][364]MaterialEditorStats: Base pass shader with Surface Lightmap: 119 instructions
+[2018.04.02-01.33.35:102][364]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.04.02-01.33.35:102][364]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.04.02-01.33.35:102][364]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.02-01.33.35:102][364]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.02-01.33.36:161][389]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer' with GeneratedClass '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer'
+[2018.04.02-01.33.36:161][389]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel'
+[2018.04.02-01.33.36:251][389]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer' with GeneratedClass '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/LevelContainer.LevelContainer:PersistentLevel.LevelContainer'
+[2018.04.02-01.33.36:251][389]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel' with GeneratedClass '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/RecursiveLevel.RecursiveLevel:PersistentLevel.RecursiveLevel'
+[2018.04.02-01.34.21:669][829]BlueprintLog: New page: Compile ScreenMesh
+[2018.04.02-01.34.22:983][843]LogSavePackage: Save=95.15ms
+[2018.04.02-01.34.22:983][843]LogSavePackage: Moving '../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Saved/ScreenMeshACA18DE5432564489AC95EAF80868906.tmp' to '../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Content/ThirdPersonBP/Blueprints/ScreenMesh.uasset'
+[2018.04.02-01.34.22:996][843]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rotci/Documents/Unreal Projects/Curso2/Content/ThirdPersonBP/Blueprints/ScreenMesh.uasset
+[2018.04.02-01.34.29:780][ 74]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.04.02-01.34.31:010][ 74]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.230 s
+[2018.04.02-01.34.31:010][ 74]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.02-01.34.31:010][ 74]LogOutputDevice: Error: 
+[2018.04.02-01.34.31:010][ 74]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.04.02-01.34.31:010][ 74]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.04.02-01.34.31:010][ 74]LogOutputDevice: Error: Stack: 
+[2018.04.02-01.34.31:010][ 74]LogOutputDevice: Error: [Callstack] 0x000000003E7E2786 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.02-01.34.31:010][ 74]LogOutputDevice: Error: [Callstack] 0x000000003E58123A UE4Editor-Core.dll!UnknownFunction []
+[2018.04.02-01.34.31:010][ 74]LogOutputDevice: Error: [Callstack] 0x000000003E59B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.02-01.34.31:010][ 74]LogOutputDevice: Error: [Callstack] 0x000000003AAC33F6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.02-01.34.31:010][ 74]LogOutputDevice: Error: [Callstack] 0x000000003BEC03AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.04.02-01.34.31:010][ 74]LogOutputDevice: Error: [Callstack] 0x0000000037743EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.02-01.34.31:010][ 74]LogOutputDevice: Error: [Callstack] 0x00000000375D74AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.02-01.34.31:010][ 74]LogOutputDevice: Error: [Callstack] 0x00000000375DABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.02-01.34.31:010][ 74]LogOutputDevice: Error: [Callstack] 0x0000000037708225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.02-01.34.31:010][ 74]LogOutputDevice: Error: [Callstack] 0x000000003D8B7397 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.02-01.34.31:010][ 74]LogOutputDevice: Error: [Callstack] 0x000000003D8BCE61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.02-01.34.31:010][ 74]LogOutputDevice: Error: [Callstack] 0x000000003DAF9913 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.02-01.34.31:011][ 74]LogOutputDevice: Error: [Callstack] 0x000000003D913484 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.02-01.34.31:011][ 74]LogOutputDevice: Error: [Callstack] 0x000000003D8EB68C UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.02-01.34.31:011][ 74]LogOutputDevice: Error: [Callstack] 0x000000003D8DD6B7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.02-01.34.31:011][ 74]LogOutputDevice: Error: [Callstack] 0x000000004697E39E UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.02-01.34.31:011][ 74]LogOutputDevice: Error: [Callstack] 0x0000000046971A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.02-01.34.31:011][ 74]LogOutputDevice: Error: [Callstack] 0x00000000469803EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.02-01.34.31:011][ 74]LogOutputDevice: Error: [Callstack] 0x000000004696D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.02-01.34.31:011][ 74]LogOutputDevice: Error: [Callstack] 0x000000007473B85D USER32.dll!UnknownFunction []
+[2018.04.02-01.34.31:011][ 74]LogOutputDevice: Error: [Callstack] 0x000000007473B1EF USER32.dll!UnknownFunction []
+[2018.04.02-01.34.31:011][ 74]LogOutputDevice: Error: [Callstack] 0x0000000046981516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.02-01.34.31:011][ 74]LogOutputDevice: Error: [Callstack] 0x00000000990450C8 UE4Editor.exe!UnknownFunction []
+[2018.04.02-01.34.31:011][ 74]LogOutputDevice: Error: [Callstack] 0x0000000099055430 UE4Editor.exe!UnknownFunction []
+[2018.04.02-01.34.31:011][ 74]LogOutputDevice: Error: [Callstack] 0x00000000990554AA UE4Editor.exe!UnknownFunction []
+[2018.04.02-01.34.31:011][ 74]LogOutputDevice: Error: [Callstack] 0x0000000099062379 UE4Editor.exe!UnknownFunction []
+[2018.04.02-01.34.31:011][ 74]LogOutputDevice: Error: [Callstack] 0x0000000099063D57 UE4Editor.exe!UnknownFunction []
+[2018.04.02-01.34.31:011][ 74]LogOutputDevice: Error: [Callstack] 0x00000000769C1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.04.02-01.34.31:011][ 74]LogOutputDevice: Error: [Callstack] 0x0000000076DEEFC1 ntdll.dll!UnknownFunction []
+[2018.04.02-01.34.31:011][ 74]LogOutputDevice: Error: 
+[2018.04.02-01.34.31:018][ 74]LogStats:                SubmitErrorReport -  0.000 s
